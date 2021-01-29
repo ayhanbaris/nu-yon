@@ -5,4 +5,5 @@
 
 *Star'la
 
-*readme.md dosyasina text ekleme yap, adını yaz. 
+*readme.md dosyasina text ekleme yap, adını yaz.
+gözde uzunok
